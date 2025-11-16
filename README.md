@@ -79,9 +79,3 @@ Frontend runs at **[http://localhost:5173](http://localhost:5173)**
 ## 👤 Author
 
 **Kaushik Ladumor**
-
----
-
-## 📄 License
-
-MIT
